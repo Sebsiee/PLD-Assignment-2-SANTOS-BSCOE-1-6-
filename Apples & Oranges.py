@@ -6,6 +6,6 @@ priceOranges = 25
 apples=int(input("How many apples do you want to buy?"))
 oranges=int(input("How many oranges do you want to buy?"))
 total=(apples * priceApples + oranges * priceOranges)
-print("Total amount is:" + str(total))
+print("The total amount is " + str(total) + ".")
 print("Solution:")
 print((str(apples)) + " * " + (str(priceApples)) + " + " + (str(oranges)) + " * " + (str(priceOranges)) + " = " + (str(total)))
