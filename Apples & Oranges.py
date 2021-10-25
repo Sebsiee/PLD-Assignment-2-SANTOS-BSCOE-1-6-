@@ -1,5 +1,5 @@
 print("Welcome to the Fruit Market!")
-print("The prices of the frutis are:")
+print("The prices of the fruits are:")
 print("Apple=20, Orange=25")
 priceApples = 20
 priceOranges = 25
